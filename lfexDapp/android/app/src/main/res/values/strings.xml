@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LFEX</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">SCxWVquid1rS3eXbChgzddEUkII3GoDprocju</string>
+</resources>
